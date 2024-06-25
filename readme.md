@@ -9,7 +9,7 @@
 <br>
 
 <div>
-<h2>Sobre Mim</h2>
+<h2>Sobre</h2>
 
 
 
@@ -32,16 +32,15 @@
 
 
 
-<br>
-<div align="center" display="block">
-  <a href="https://github.com/Sauliitoz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sauliitoz&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sauliitoz&layout=compact&langs_count=7&theme=react" />
-</div>
-<br>
+
+
+
   
 <div align="center"> 
-    <img alt="sauliitoz-vscode" height="25" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+   <img align="center"  src="https://github-readme-stats.vercel.app/api?username=Sauliitoz&show_icons=true&theme=radical" />
+  <br>
+  <br>
+   <img alt="sauliitoz-vscode" height="25" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
    <img  alt="sauliitoz-HTML" height="25" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img  alt="sauliitoz-CSS" height="25" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img  alt="sauliitoz-Js" height="25" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -58,7 +57,7 @@
   <a href = "mailto:sauloadolfo32@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/saulo-teixeira-b48934178" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     
-     ##
+  
     
   </div>
 
