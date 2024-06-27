@@ -25,8 +25,6 @@
 <p>Sou uma pessoa determinada e não desisto facilmente. Gosto de enfrentar desafios e sempre me esforço para concluir meus projetos. 
   Estou animado para aprender e crescer na área de desenvolvimento web!</p>
 
-<p>Retendo me ingressar em uma faculdade de Ciência da Computação.</p>
-
   <p>Se você quiser saber mais sobre mim ou trocar experiências, sinta-se à vontade para entrar em contato. Vamos construir coisas incríveis juntos! 😊</p>
 </div>
 
